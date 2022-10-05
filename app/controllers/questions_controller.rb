@@ -7,4 +7,7 @@ class QuestionsController < ApplicationController
 
   def about
   end
+
+  def answer
+  end
 end
